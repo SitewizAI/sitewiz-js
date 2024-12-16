@@ -1,0 +1,1 @@
+{"version":3,"file":"module.js","sources":["../src/utils/error.ts"],"sourcesContent":["export function hello(): void {\n  //console.log(\"hello world\");\n}\n"],"names":["hello"],"mappings":"SAAgBA,IACd"}
